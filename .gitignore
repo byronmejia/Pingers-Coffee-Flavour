@@ -27,6 +27,11 @@
 
 # IntelliJ
 /out/
+/build/
+.gradle
+gradle-app.setting
+!gradle-wrapper.jar
+
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
